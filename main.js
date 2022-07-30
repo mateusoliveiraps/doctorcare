@@ -1,3 +1,4 @@
+const navigation = document.getElementById('navigation')
 //Adiciona Evento de Scroll na Window.
 window.addEventListener('scroll', onScroll)
 
